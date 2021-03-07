@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React.js, Cryptography, Compiler Design
 - 👯 I’m looking to collaborate on Gnome Desktops apps, Python projects
  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sanjarcode&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
 
-[![Sanjar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjarcode)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjarcode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanjarcode&layout=compact&theme=material-palenight" />
+</a>
