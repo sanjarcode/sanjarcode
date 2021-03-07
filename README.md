@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Gnome Desktops apps, Python projects
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sanjarcode&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sanjarcode&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" />
 </a>
-
+<br/> <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanjarcode&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanjarcode&layout=compact&theme=vue-dark&hide_border=true" />
 </a>
