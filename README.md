@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Sanjar, a curious software developer.
+### I'm Sanjar, a curious software developer.
 
 <!--
 **sanjarcode/sanjarcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
