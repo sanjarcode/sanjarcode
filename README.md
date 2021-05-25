@@ -15,7 +15,7 @@ Disclaimer 😄: Links can waste your time, so be careful.
 
 ### About me
 - Data Structures and Algorithms are free entertainment for the brain
-- Comfortably primed to start learning [computational economics](https://twitter.com/AfaqSanjar/status/1396775355524866057), [Relativistic HPC](https://arxiv.org/pdf/0907.1579), [Quantum Computing](https://www.youtube.com/watch?v=UUpqnBzBMEE)
+- Comfortably primed to start learning [computational economics](https://twitter.com/AfaqSanjar/status/1396775355524866057), [Relativistic HPC](https://arxiv.org/abs/0907.1579), [Quantum Computing](https://www.youtube.com/watch?v=UUpqnBzBMEE)
 - Fairly good at CLI-based, Basic Web, React.js, Android, Gnome3 desktop apps
 - Want to learn [Rust](<https://en.wikipedia.org/wiki/Rust_(programming_language)>) for [Systems Programming](https://hackernoon.com/systems-programming-d5917e41353f)
 - Noob with data: OK with SQL, want to learn about Big Data systems, visualization for [storytelling](https://blog.presentation-company.com/data-visualization-vs.-data-storytelling-whats-the-difference)
