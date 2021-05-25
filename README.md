@@ -1,4 +1,4 @@
-### I'm Sanjar, a curious software developer.
+### I'm Sanjar, a polymath-ing problem solver.
 
 <!--
 **sanjarcode/sanjarcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m learning React.js, [Rust](<https://en.wikipedia.org/wiki/Rust_(programming_language)>), Cryptography, Compiler Design
+- Getting comfortable with computational economics, relativistic HPC, Quantum Computing
+- 🔭 I'm fairly good at CLI-apps, Basic Web, React.js Android Development, Gnome3 desktop development
+- 🌱 Want to learn [Rust](<https://en.wikipedia.org/wiki/Rust_(programming_language)>)
+- Love proving Cryptographic mechanisms, understanding Compiler Design
 - 👯 Looking to collaborate on Gnome3 apps, Python projects, system programs
 
 <details>
