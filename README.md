@@ -16,8 +16,8 @@ Disclaimer 😄: Links can waste your time, so be careful.
 ### About me
 - Data Structures and Algorithms are free entertainment for the brain
 - Comfortably primed to start learning [computational economics](https://twitter.com/AfaqSanjar/status/1396775355524866057), [Relativistic HPC](https://arxiv.org/pdf/0907.1579), [Quantum Computing](https://www.youtube.com/watch?v=UUpqnBzBMEE)
-- 🔭 I'm fairly good at CLI-based, Basic Web, React.js, Android, Gnome3 desktop apps
-- 🌱 Want to learn [Rust](<https://en.wikipedia.org/wiki/Rust_(programming_language)>) for [Systems Programming](https://hackernoon.com/systems-programming-d5917e41353f)
+- 🔭 Fairly good at CLI-based, Basic Web, React.js, Android, Gnome3 desktop apps
+- Want to learn [Rust](<https://en.wikipedia.org/wiki/Rust_(programming_language)>) for [Systems Programming](https://hackernoon.com/systems-programming-d5917e41353f)
 - Noob with data: OK with SQL, want to learn about Big Data systems, visualization for [storytelling](https://blog.presentation-company.com/data-visualization-vs.-data-storytelling-whats-the-difference)
 - [Love proving](https://engineering.salesforce.com/solving-puzzles-to-protect-the-cloud-cto-taher-elgamal-on-his-role-at-salesforce-and-the-future-of-94c469b9ec0e?gi=54859065abc2) cryptographic mechanisms, understanding compiler design
 - Excited about [AI morality](https://twitter.com/AfaqSanjar/status/1396086879703896066), [Philosophy of AI](http://64350135.weebly.com/objections.html)
