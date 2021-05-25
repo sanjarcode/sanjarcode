@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [Love proving](https://engineering.salesforce.com/solving-puzzles-to-protect-the-cloud-cto-taher-elgamal-on-his-role-at-salesforce-and-the-future-of-94c469b9ec0e?gi=54859065abc2) cryptographic mechanisms, understanding compiler design
 - Excited about [AI morality](https://twitter.com/AfaqSanjar/status/1396086879703896066), [Philosophy of AI](http://64350135.weebly.com/objections.html)
 - [Trying](https://twitter.com/AfaqSanjar/status/1396392595350196229) to understand Deep Learning, and its role in ML.
-- I'm confident that love ❤️ is a genetically signifcant parameter for the [GA algorithm](https://www.youtube.com/watch?v=_Vxjh1QxApA) in the [Simulation Hypothesis](https://www.youtube.com/watch?v=UHlfe2HE_gQ), [virtuosly](https://link.springer.com/article/10.1007/s10551-016-3174-y) correlated with global intelligence gain.
+- I'm confident that love ❤️ is a genetically significant parameter for the [GA algorithm](https://www.youtube.com/watch?v=_Vxjh1QxApA) in the [Simulation Hypothesis](https://www.youtube.com/watch?v=UHlfe2HE_gQ), [virtuosly](https://link.springer.com/article/10.1007/s10551-016-3174-y) correlated with global intelligence gain.
 - Love Python, meh with C++
 
 I'm focused, but hate working to be a 'specialist' 😅️.
