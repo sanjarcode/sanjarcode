@@ -18,7 +18,7 @@ Disclaimer 😄: Links can waste your time, so be careful. Hover to see video du
 - I'm confident that love ❤️ is a genetically significant parameter for the [GA algorithm](https://www.youtube.com/watch?v=_Vxjh1QxApA "Video: 9 minutes") in the [Simulation Hypothesis](https://www.youtube.com/watch?v=UHlfe2HE_gQ "Video: 50 minutes"), [virtuously](https://link.springer.com/article/10.1007/s10551-016-3174-y "paper, not mine") correlated with global intelligence gain: Neo's [choice](https://youtu.be/L2xZ6Ev4pWk?t=31 "Video: 5 minutes, choosing love").
 - Love Python, meh with C++
 
-### Fiddlings/goals
+### Fiddlings(goals)
 - Comfortably primed to start learning [computational economics](https://twitter.com/AfaqSanjar/status/1396775355524866057 "my Tweet"), [Relativistic HPC](https://arxiv.org/abs/0907.1579 "paper, not mine"), [Quantum Computing](https://www.youtube.com/watch?v=UUpqnBzBMEE "Video: 4 minutes")
 - Want to learn [Rust](<https://en.wikipedia.org/wiki/Rust_(programming_language)> "programming lang") for [Systems Programming](https://hackernoon.com/systems-programming-d5917e41353f "kind of programs")
 - [Trying](https://twitter.com/AfaqSanjar/status/1396392595350196229 "my Tweet") to understand Deep Learning, and its role in ML.
