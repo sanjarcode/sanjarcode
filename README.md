@@ -15,14 +15,14 @@ Disclaimer 😄: Links can waste your time, so be careful.
 
 ### About me
 - Data Structures and Algorithms are free entertainment for my brain
-- Comfortably primed to start learning [computational economics](https://twitter.com/AfaqSanjar/status/1396775355524866057), [Relativistic HPC](https://arxiv.org/abs/0907.1579), [Quantum Computing](https://www.youtube.com/watch?v=UUpqnBzBMEE)
+- Comfortably primed to start learning [computational economics](https://twitter.com/AfaqSanjar/status/1396775355524866057 "Tweet"), [Relativistic HPC](https://arxiv.org/abs/0907.1579 "not my paper 😅️"), [Quantum Computing](https://www.youtube.com/watch?v=UUpqnBzBMEE "Video: 4 minutes")
 - Fairly good at CLI-based, Basic Web, React.js, Android, Gnome3 desktop apps
-- Want to learn [Rust](<https://en.wikipedia.org/wiki/Rust_(programming_language)>) for [Systems Programming](https://hackernoon.com/systems-programming-d5917e41353f)
-- Noob with data: OK with SQL, want to learn about Big Data systems, visualization for [storytelling](https://blog.presentation-company.com/data-visualization-vs.-data-storytelling-whats-the-difference)
-- [Love proving](https://engineering.salesforce.com/solving-puzzles-to-protect-the-cloud-cto-taher-elgamal-on-his-role-at-salesforce-and-the-future-of-94c469b9ec0e?gi=54859065abc2) cryptographic mechanisms, understanding compiler design
-- Excited about [AI morality](https://twitter.com/AfaqSanjar/status/1396086879703896066), [Philosophy of AI](http://64350135.weebly.com/objections.html)
-- [Trying](https://twitter.com/AfaqSanjar/status/1396392595350196229) to understand Deep Learning, and its role in ML.
-- I'm confident that love ❤️ is a genetically significant parameter for the [GA algorithm](https://www.youtube.com/watch?v=_Vxjh1QxApA) in the [Simulation Hypothesis](https://www.youtube.com/watch?v=UHlfe2HE_gQ), [virtuously](https://link.springer.com/article/10.1007/s10551-016-3174-y) correlated with global intelligence gain: Neo's [choice](https://youtu.be/L2xZ6Ev4pWk?t=31).
+- Want to learn [Rust](<https://en.wikipedia.org/wiki/Rust_(programming_language)> "Programming lang") for [Systems Programming](https://hackernoon.com/systems-programming-d5917e41353f "A kind of programs")
+- Noob with data: OK with SQL, want to learn about Big Data systems, visualization for [storytelling](https://blog.presentation-company.com/data-visualization-vs.-data-storytelling-whats-the-difference "Article")
+- [Love proving](https://engineering.salesforce.com/solving-puzzles-to-protect-the-cloud-cto-taher-elgamal-on-his-role-at-salesforce-and-the-future-of-94c469b9ec0e?gi=54859065abc2 "Article, celebrating El-Gamal's love for math") cryptographic mechanisms, understanding compiler design
+- Excited about [AI morality](https://twitter.com/AfaqSanjar/status/1396086879703896066 "Tweet"), [Philosophy of AI](http://64350135.weebly.com/objections.html)
+- [Trying](https://twitter.com/AfaqSanjar/status/1396392595350196229 "Tweet") to understand Deep Learning, and its role in ML.
+- I'm confident that love ❤️ is a genetically significant parameter for the [GA algorithm](https://www.youtube.com/watch?v=_Vxjh1QxApA "Video: 9 minutes") in the [Simulation Hypothesis](https://www.youtube.com/watch?v=UHlfe2HE_gQ "Video: 50 minutes"), [virtuously](https://link.springer.com/article/10.1007/s10551-016-3174-y "paper, not mine") correlated with global intelligence gain: Neo's [choice](https://youtu.be/L2xZ6Ev4pWk?t=31 "Video: 5 minutes, choosing love").
 - Love Python, meh with C++
 
 I'm focused, but hate working to be a 'specialist'😠️.
