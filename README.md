@@ -26,7 +26,8 @@ Disclaimer 😄: Links can waste your time, so be careful. Hover to see video du
 - Excited about [AI morality](https://twitter.com/AfaqSanjar/status/1396086879703896066 "my Tweet"), [Philosophy of AI](http://64350135.weebly.com/objections.html)
 - [Love proving](https://engineering.salesforce.com/solving-puzzles-to-protect-the-cloud-cto-taher-elgamal-on-his-role-at-salesforce-and-the-future-of-94c469b9ec0e?gi=54859065abc2 "Article") cryptographic mechanisms, understanding compiler design
 
-### Skills, ignore if that's your hiring goal. I don't do "trash work"
+### Skills
+##### Ignore if this is you're hiring goal. I don't do "trash work"
 - Fairly good at CLI-based, Basic Web, React.js, Android, Gnome3 desktop apps
 
 I'm focused, but hate working to be a 'specialist'😠️.
