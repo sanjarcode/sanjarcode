@@ -29,6 +29,7 @@ Disclaimer 😄: Links can waste your time, so be careful. Hover to see video du
 ### Skills
 🛑️ Skip this, if it's your hiring objective: I don't do "trash work"
 - Fairly good at CLI-based, Basic Web, React.js, Android, Gnome3 desktop apps
+- Comfortable with Linux
 
 I'm focused, but hate working to be a 'specialist'😠️.
 
