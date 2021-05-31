@@ -25,7 +25,7 @@ Disclaimer 😄: Links can waste your time, so be careful.
 - I'm confident that love ❤️ is a genetically significant parameter for the [GA algorithm](https://www.youtube.com/watch?v=_Vxjh1QxApA) in the [Simulation Hypothesis](https://www.youtube.com/watch?v=UHlfe2HE_gQ), [virtuously](https://link.springer.com/article/10.1007/s10551-016-3174-y) correlated with global intelligence gain: Neo's [choice](https://youtu.be/L2xZ6Ev4pWk?t=31).
 - Love Python, meh with C++
 
-I'm focused, but hate working to be a 'specialist' 😅️.
+I'm focused, but hate working to be a 'specialist'😠️.
 
 <details>
   <summary><strong>GitHub stats</strong></summary>
