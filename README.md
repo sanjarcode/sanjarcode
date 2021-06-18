@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey 😄: Links can waste your time, so be careful. Hover to see video durations.
+Hey 😄: Hover over links to see video durations, if it is.
 
 ### About me
 - Data Structures and Algorithms [are](https://www.reddit.com/r/learnprogramming/comments/n2lp9j/comment/gwnifk9?utm_medium=android_app&utm_source=share&context=3) free entertainment for me.
