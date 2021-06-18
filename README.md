@@ -27,7 +27,7 @@ Disclaimer 😄: Links can waste your time, so be careful. Hover to see video du
 - [Love proving](https://engineering.salesforce.com/solving-puzzles-to-protect-the-cloud-cto-taher-elgamal-on-his-role-at-salesforce-and-the-future-of-94c469b9ec0e?gi=54859065abc2 "Article") cryptographic mechanisms, understanding compiler design
 
 ### Skills
-🛑️ Skip this section, if it's a "hiring" **objective**: I don't do "trash work". [Trash work?](https://youtu.be/N2bXEUSAiTI?t=798 "Video: 40 sec")
+🛑️ Skip this section, if it's your "hiring" **objective**: I don't do "trash work". [Trash work?](https://youtu.be/N2bXEUSAiTI?t=798 "Video: 40 sec")
 - Fairly good at CLI-based, Basic Web, React.js, Android, Gnome3 desktop apps
 - Comfortable with Linux
 
