@@ -15,7 +15,7 @@ Disclaimer 😄: Links can waste your time, so be careful. Hover to see video du
 
 ### About me
 - Data Structures and Algorithms are free entertainment for my brain
-- I'm confident that love ❤️ is a genetically significant parameter for the [GA algorithm](https://www.youtube.com/watch?v=_Vxjh1QxApA "Video: 9 minutes") in the [Simulation Hypothesis](https://www.youtube.com/watch?v=UHlfe2HE_gQ "Video: 50 minutes"), [virtuously](https://link.springer.com/article/10.1007/s10551-016-3174-y "paper, not mine") correlated with global intelligence gain: Neo's [choice](https://youtu.be/L2xZ6Ev4pWk?t=31 "Video: 5 minutes, choosing love").
+- I'm confident that love ❤️ is a genetically significant parameter for the [GA algorithm](https://www.youtube.com/watch?v=_Vxjh1QxApA "Video: 9 minutes") in the [Simulation Hypothesis](https://www.youtube.com/watch?v=UHlfe2HE_gQ "Video: 50 minutes"), [virtuously](https://link.springer.com/article/10.1007/s10551-016-3174-y "paper, not mine") correlated with global intelligence gain: See [Neo's choice](https://youtu.be/L2xZ6Ev4pWk?t=31 "Video: 5 minutes, choosing love").
 - Love Python, meh with C++
 
 ### Goals
