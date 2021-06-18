@@ -1,4 +1,4 @@
-## I'm Sanjar: a 'problem solver', _I prefer gamer(life [is](https://www.ted.com/talks/mark_rober_the_super_mario_effect_tricking_your_brain_into_learning_more?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare "Video: 16 minutes") a game 🎮️🤗️)_.
+## I'm Sanjar: a 'problem solver'. _I prefer gamer(life [is](https://www.ted.com/talks/mark_rober_the_super_mario_effect_tricking_your_brain_into_learning_more?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare "Video: 16 minutes") a game 🎮️🤗️)_.
 
 <!--
 **sanjarcode/sanjarcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
