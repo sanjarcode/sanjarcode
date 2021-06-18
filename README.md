@@ -1,4 +1,4 @@
-## I'm Sanjar, a problem solver, or better: a game player(life is a game, isn't it).
+## I'm Sanjar, a problem solver, or better: a gamer(life is a game 🎮️🤗️).
 
 <!--
 **sanjarcode/sanjarcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
