@@ -24,7 +24,8 @@ Hey 😄: Hover over links to see video durations, if it is.
 - Want to learn [Rust](<https://en.wikipedia.org/wiki/Rust_(programming_language)> "programming lang") for [Systems Programming](https://hackernoon.com/systems-programming-d5917e41353f "kind of programs")
 - [Trying](https://twitter.com/AfaqSanjar/status/1396392595350196229 "my Tweet") to understand Deep Learning, and its role in ML.
 - Noob with data: OK with SQL, want to learn about Big Data systems, visualization for [storytelling](https://blog.presentation-company.com/data-visualization-vs.-data-storytelling-whats-the-difference "Article")
-- [Proving and designing](https://engineering.salesforce.com/solving-puzzles-to-protect-the-cloud-cto-taher-elgamal-on-his-role-at-salesforce-and-the-future-of-94c469b9ec0e?gi=54859065abc2 "Article") cryptographic mechanisms, understanding compiler design
+- [Proving and designing](https://engineering.salesforce.com/solving-puzzles-to-protect-the-cloud-cto-taher-elgamal-on-his-role-at-salesforce-and-the-future-of-94c469b9ec0e?gi=54859065abc2 "Article") cryptographic mechanisms
+- Understand hardware, and compiler design
 
 ### Tools (skills)
 🛑️ Skip this section, if it's your "hiring" **objective**: I don't do "trash work". [Trash work?](https://youtu.be/N2bXEUSAiTI?t=798 "Video: 40 sec")
