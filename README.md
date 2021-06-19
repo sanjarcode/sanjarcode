@@ -19,12 +19,12 @@ Hey 😄: Hover over links to see video durations, if it is.
 - Love [Python](https://github.com/sanjar-notes/python3_notes "my mental model"), meh with [C++](https://github.com/sanjar-notes/dsa_with_cpp "my mental model")
 
 ### Goals
+- Working on [AI morality](https://twitter.com/AfaqSanjar/status/1396086879703896066 "my Tweet"), thinking about [Philosophy of AI](http://64350135.weebly.com/objections.html)
 - Comfortably primed to start learning [computational economics](https://twitter.com/AfaqSanjar/status/1396775355524866057 "my Tweet"), [Relativistic HPC](https://arxiv.org/abs/0907.1579 "paper, not mine"), [Quantum Computing](https://www.youtube.com/watch?v=UUpqnBzBMEE "Video: 4 minutes")
 - Want to learn [Rust](<https://en.wikipedia.org/wiki/Rust_(programming_language)> "programming lang") for [Systems Programming](https://hackernoon.com/systems-programming-d5917e41353f "kind of programs")
 - [Trying](https://twitter.com/AfaqSanjar/status/1396392595350196229 "my Tweet") to understand Deep Learning, and its role in ML.
 - Noob with data: OK with SQL, want to learn about Big Data systems, visualization for [storytelling](https://blog.presentation-company.com/data-visualization-vs.-data-storytelling-whats-the-difference "Article")
-- Excited about [AI morality](https://twitter.com/AfaqSanjar/status/1396086879703896066 "my Tweet"), [Philosophy of AI](http://64350135.weebly.com/objections.html)
-- [Love proving](https://engineering.salesforce.com/solving-puzzles-to-protect-the-cloud-cto-taher-elgamal-on-his-role-at-salesforce-and-the-future-of-94c469b9ec0e?gi=54859065abc2 "Article") cryptographic mechanisms, understanding compiler design
+- [Proving and designing](https://engineering.salesforce.com/solving-puzzles-to-protect-the-cloud-cto-taher-elgamal-on-his-role-at-salesforce-and-the-future-of-94c469b9ec0e?gi=54859065abc2 "Article") cryptographic mechanisms, understanding compiler design
 
 ### Tools (skills)
 🛑️ Skip this section, if it's your "hiring" **objective**: I don't do "trash work". [Trash work?](https://youtu.be/N2bXEUSAiTI?t=798 "Video: 40 sec")
